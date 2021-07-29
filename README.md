@@ -4,7 +4,7 @@ Proyecto 4 , el api no funciona correctamente por un tema de Cors...
 
 no se ha subido a netlify
 
-![alt text](https://github.com/rolando167/udBreakingbad/blob/main/main.jpg)
+![alt text](https://github.com/rolando167/udBreakingbad/blob/master/main.jpg)
 
 # Getting Started with Create React App
 
