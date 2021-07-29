@@ -1,3 +1,9 @@
+# Datos
+
+Proyecto 4 , el api no funciona correctamente por un tema de Cors...
+
+no se ha subido a netlify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
